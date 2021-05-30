@@ -6,6 +6,12 @@
 
 - 📫 You can reach me on Linkedin: [Thisura Thenuka](https://www.linkedin.com/in/thisurathenuka/)
 
+- 📽 Here are some of my mini-projects
+
+[Bin2Dec Converter](https://boring-hodgkin-41de28.netlify.app/)
+
+[GitHub Profiles](https://sleepy-murdock-95a477.netlify.app/)
+
 <!--
 **thisurathenuka/thisurathenuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
