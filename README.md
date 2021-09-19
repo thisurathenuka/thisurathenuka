@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Web-based Quiz App using the [Open Trivia DB](https://opentdb.com/api_config.php)
-
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Java's Collection Framework
 
 - 📫 You can reach me on Linkedin: [Thisura Thenuka](https://www.linkedin.com/in/thisurathenuka/)
 
