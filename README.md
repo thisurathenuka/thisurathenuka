@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java's Collection Framework
+- 🌱 I’m currently learning Java's Collections Framework
 
 - 📫 You can reach me on Linkedin: [Thisura Thenuka](https://www.linkedin.com/in/thisurathenuka/)
 
