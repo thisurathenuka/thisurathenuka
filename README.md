@@ -12,6 +12,16 @@
 
 ---
 
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://simplecoder.hashnode.dev/)
+
+---
+
+
 
 - 🌱 I’m currently learning Java's Collections Framework
 
