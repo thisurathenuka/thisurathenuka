@@ -15,6 +15,9 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Closures - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/closures-javascript-concepts-simplified)
+- [Event Bubbling - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/event-bubbling-javascript-concepts-simplified)
+- [Hoisting - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/hoisting-javascript-concepts-simplified)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://simplecoder.hashnode.dev/)
