@@ -2,6 +2,17 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/thenukathisura1?label=Follow%20Me%20On%20Twitter&style=social)
 
+<!-- Add Bio -->
+
+---
+
+🧰 Toolbox
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJs Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
+
+---
+
+
 - 🌱 I’m currently learning Java's Collections Framework
 
 - 📫 You can reach me on Linkedin: [Thisura Thenuka](https://www.linkedin.com/in/thisurathenuka/)
