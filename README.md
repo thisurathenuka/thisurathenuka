@@ -15,6 +15,7 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Higher-Order Functions - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/higher-order-functions-javascript-concepts-simplified)
 - [Closures - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/closures-javascript-concepts-simplified)
 - [Event Bubbling - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/event-bubbling-javascript-concepts-simplified)
 - [Hoisting - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/hoisting-javascript-concepts-simplified)
