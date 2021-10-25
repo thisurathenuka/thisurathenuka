@@ -4,6 +4,7 @@
 
 <!-- Add Bio -->
 
+<a href="https://app.daily.dev/Thisura"><img src="https://api.daily.dev/devcards/fe72ccebf3064efaba24c9296886903f.png?r=t8e" width="400" alt="Thisura Thenuka's Dev Card"/></a>
 ---
 
 🧰 Toolbox
