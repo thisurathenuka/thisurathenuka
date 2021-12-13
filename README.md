@@ -28,7 +28,7 @@
 
 
 
-- 🌱 I’m currently learning Java's Collections Framework
+- 🌱 I’m currently learning Modern Javascript Concepts
 
 - 📫 You can reach me on Linkedin: [Thisura Thenuka](https://www.linkedin.com/in/thisurathenuka/)
 
