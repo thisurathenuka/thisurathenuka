@@ -16,6 +16,7 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Promises - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/promises-javascript-concepts-simplified)
 - [Higher-Order Functions - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/higher-order-functions-javascript-concepts-simplified)
 - [Closures - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/closures-javascript-concepts-simplified)
 - [Event Bubbling - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/event-bubbling-javascript-concepts-simplified)
