@@ -19,15 +19,17 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>
-&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
-&nbsp;&nbsp;&nbsp;<img src="/icons/icons8-javascript.gif" alt="JavaScript Logo" width="50" height="50"/>
-&nbsp;&nbsp;&nbsp;<img src="/icons/icons8-nodejs-48.png" alt="NodeJs Logo" width="50" height="50"/>
-&nbsp;&nbsp;&nbsp;<img src="/icons/icons8-java.gif" alt="Java Logo" width="50" height="50"/>
-&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/>
-&nbsp;&nbsp;&nbsp;<img src="/icons/icons8-git-48.png" alt="Git Logo" width="50" height="50"/>
-&nbsp;&nbsp;&nbsp;<img src="/icons/icons8-python.gif" alt="Python Logo" width="50" height="50"/>
-&nbsp;&nbsp;&nbsp;<img src="/icons/icons8-react.gif" alt="React Logo" width="50" height="50"/>
+<p align="center">
+	<a><img alt="html" width="10%" style="padding:5px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/></a>
+	<a><img alt="css" width="10%" style="padding:5px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/></a>
+	<a><img alt="js" width="10%" style="padding:5px" src="/icons/icons8-javascript.gif"/></a>
+	<a><img alt="nodejs" width="10%" style="padding:5px" src="/icons/icons8-nodejs-48.png"/></a>
+	<a><img alt="java" width="10%" style="padding:5px" src="/icons/icons8-java.gif"/></a>
+	<a><img alt="spring" width="10%" style="padding:5px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/></a>
+	<a><img alt="git" width="10%" style="padding:5px" src="/icons/icons8-git-48.png"/></a>
+	<a><img alt="python" width="10%" style="padding:5px" src="/icons/icons8-python.gif"/></a>
+	<a><img alt="react" width="10%" style="padding:5px" src="/icons/icons8-react.gif"/></a>
+</p>
 
 ---
 
