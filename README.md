@@ -1,6 +1,6 @@
 ### Hi there, I am Thisura Thenuka! 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/thenukathisura1?label=Follow%20Me%20On%20Twitter&style=social)
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/thenukathisura1?label=Follow%20Me%20On%20Twitter&style=social) -->
 
 <!-- Add Bio -->
 
