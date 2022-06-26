@@ -29,6 +29,8 @@
 	<a><img alt="git" width="10%" style="padding:5px" src="/icons/icons8-git-48.png"/></a>
 	<a><img alt="python" width="10%" style="padding:5px" src="/icons/icons8-python.gif"/></a>
 	<a><img alt="react" width="10%" style="padding:5px" src="/icons/icons8-react.gif"/></a>
+	<a><img alt="c" width="10%" style="padding:5px" src="/icons/icons8-c-programming-48.png"/></a>
+	<a><img alt="c++" width="10%" style="padding:5px" src="/icons/icons8-c++-50.png"/></a>
 </p>
 
 ---
