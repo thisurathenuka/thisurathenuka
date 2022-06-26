@@ -4,7 +4,17 @@
 
 <!-- Add Bio -->
 
-<a href="https://app.daily.dev/Thisura"><img src="https://api.daily.dev/devcards/fe72ccebf3064efaba24c9296886903f.png?r=t8e" width="400" alt="Thisura Thenuka's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/Thisura"><img src="https://api.daily.dev/devcards/fe72ccebf3064efaba24c9296886903f.png?r=t8e" width="400" alt="Thisura Thenuka's Dev Card"/></a> -->
+
+### Feel Free to Contact me
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/thisurathenuka/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/thisura.thenuka/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/_thisura_/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+ 	<a href="https://twitter.com/thenukathisura1"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/344/twitter-circled.png"/></a>
+</p>
+
 ---
 
 🧰 Toolbox
@@ -27,11 +37,7 @@
 
 ---
 
-
-
-- 🌱 I’m currently learning Modern Javascript Concepts
-
-- 📫 You can reach me on Linkedin: [Thisura Thenuka](https://www.linkedin.com/in/thisurathenuka/)
+- 🌱 I’m currently learning React Concepts
 
 <!--
 - 📽 Here are some of my mini-projects
