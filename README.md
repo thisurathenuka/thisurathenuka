@@ -18,19 +18,29 @@
 ---
 
 🧰 Toolbox
- 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJs Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>
+&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
+&nbsp;&nbsp;&nbsp;<img src="/icons/icons8-javascript.gif" alt="JavaScript Logo" width="50" height="50"/>
+&nbsp;&nbsp;&nbsp;<img src="/icons/icons8-nodejs-48.png" alt="NodeJs Logo" width="50" height="50"/>
+&nbsp;&nbsp;&nbsp;<img src="/icons/icons8-java.gif" alt="Java Logo" width="50" height="50"/>
+&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/>
+&nbsp;&nbsp;&nbsp;<img src="/icons/icons8-git-48.png" alt="Git Logo" width="50" height="50"/>
+&nbsp;&nbsp;&nbsp;<img src="/icons/icons8-python.gif" alt="Python Logo" width="50" height="50"/>
+&nbsp;&nbsp;&nbsp;<img src="/icons/icons8-react.gif" alt="React Logo" width="50" height="50"/>
 
 ---
 
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to Write Our Own Custom Hooks in React](https://simplecoder.hashnode.dev/how-to-write-our-own-custom-hooks-in-react)
 - [Promises - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/promises-javascript-concepts-simplified)
 - [Higher-Order Functions - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/higher-order-functions-javascript-concepts-simplified)
 - [Closures - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/closures-javascript-concepts-simplified)
 - [Event Bubbling - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/event-bubbling-javascript-concepts-simplified)
+
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://simplecoder.hashnode.dev/)
