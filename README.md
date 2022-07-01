@@ -50,7 +50,7 @@
 ---
 
 - 🌱 I’m currently learning React Concepts
-- ⚡ Fun fact: I firmly believe in David Goggins's Theory ("If you decide to do something, attack it")
+- ⚡ Fun fact: I firmly believe in David Goggins' Theory ("If you decide to do something, attack it")
 
 <!--
 - 📽 Here are some of my mini-projects
