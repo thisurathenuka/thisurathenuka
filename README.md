@@ -38,11 +38,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Errors User-Friendly with React Error Boundaries](https://simplecoder.hashnode.dev/make-errors-user-friendly-with-react-error-boundaries)
 - [How to Write Our Own Custom Hooks in React](https://simplecoder.hashnode.dev/how-to-write-our-own-custom-hooks-in-react)
 - [Promises - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/promises-javascript-concepts-simplified)
 - [Higher-Order Functions - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/higher-order-functions-javascript-concepts-simplified)
 - [Closures - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/closures-javascript-concepts-simplified)
+- [Event Bubbling - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/event-bubbling-javascript-concepts-simplified)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://simplecoder.hashnode.dev/)
