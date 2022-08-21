@@ -38,11 +38,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Redux to your React app in 6 Simple Steps](https://simplecoder.hashnode.dev/add-redux-to-your-react-app-in-6-simple-steps)
-- [Make Errors User-Friendly with React Error Boundaries](https://simplecoder.hashnode.dev/make-errors-user-friendly-with-react-error-boundaries)
-- [How to Write Our Own Custom Hooks in React](https://simplecoder.hashnode.dev/how-to-write-our-own-custom-hooks-in-react)
-- [Promises - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/promises-javascript-concepts-simplified)
-- [Higher-Order Functions - JavaScript Concepts Simplified](https://simplecoder.hashnode.dev/higher-order-functions-javascript-concepts-simplified)
+- [Add Redux to your React app in 6 Simple Steps](https://thisurathenuka.hashnode.dev/add-redux-to-your-react-app-in-6-simple-steps)
+- [Make Errors User-Friendly with React Error Boundaries](https://thisurathenuka.hashnode.dev/make-errors-user-friendly-with-react-error-boundaries)
+- [How to Write Our Own Custom Hooks in React](https://thisurathenuka.hashnode.dev/how-to-write-our-own-custom-hooks-in-react)
+- [Promises - JavaScript Concepts Simplified](https://thisurathenuka.hashnode.dev/promises-javascript-concepts-simplified)
+- [Higher-Order Functions - JavaScript Concepts Simplified](https://thisurathenuka.hashnode.dev/higher-order-functions-javascript-concepts-simplified)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://simplecoder.hashnode.dev/)
