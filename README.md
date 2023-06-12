@@ -48,9 +48,18 @@
 ▶ [...more blog articles](https://simplecoder.hashnode.dev/)
 
 ---
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_thisura_)
+
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thisurathenuka&theme=dark&show_icons=true)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@_thisura_/3029e3be-c05d-4b2a-af31-54c6144b6eeb.png" /></a>
+-->
+
+---
 
 - 🌱 I’m currently learning React Concepts
 - ⚡ Fun fact: I firmly believe in David Goggins' Theory ("If you decide to do something, attack it")
+
 
 <!--
 - 📽 Here are some of my mini-projects
