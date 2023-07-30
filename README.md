@@ -1,20 +1,8 @@
 ### Hi there, I am Thisura Thenuka! 👋
 
-<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/thenukathisura1?label=Follow%20Me%20On%20Twitter&style=social) -->
-
 <!-- Add Bio -->
 
 <!-- <a href="https://app.daily.dev/Thisura"><img src="https://api.daily.dev/devcards/fe72ccebf3064efaba24c9296886903f.png?r=t8e" width="400" alt="Thisura Thenuka's Dev Card"/></a> -->
-
-### Feel Free to Contact me
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/thisurathenuka/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/thisura.thenuka/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/_thisura_/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
- 	<a href="https://twitter.com/thenukathisura1"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/344/twitter-circled.png"/></a>
-</p>
-
 ---
 
 🧰 Toolbox
@@ -49,29 +37,22 @@
 
 ---
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_thisura_)
-
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thisurathenuka&theme=dark&show_icons=true)
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@_thisura_/3029e3be-c05d-4b2a-af31-54c6144b6eeb.png" /></a>
--->
-
 ---
 
-- 🌱 I’m currently learning React Concepts
+- 🌱 I’m currently following the [JavaScript Roadmap](https://roadmap.sh/javascript)
+- 📕 I'm currently reading You Don't Know JS Yet book
 - ⚡ Fun fact: I firmly believe in David Goggins' Theory ("If you decide to do something, attack it")
 
+---
+### Feel Free to Contact me
 
+<p align="center">
+	<a href="https://www.linkedin.com/in/thisurathenuka/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/thisura.thenuka/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/_thisura_/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+ 	<a href="https://twitter.com/thenukathisura1"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/344/twitter-circled.png"/></a>
+</p>
 <!--
-- 📽 Here are some of my mini-projects
-
-[Bin2Dec Converter](https://boring-hodgkin-41de28.netlify.app/)
-
-[GitHub Profiles](https://sleepy-murdock-95a477.netlify.app/)
-
-[Border Radius Previewer](https://gifted-sammet-25db32.netlify.app/)
-
-**thisurathenuka/thisurathenuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
