@@ -26,11 +26,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t misuse JavaScript Array map](https://thisurathenuka.hashnode.dev/dont-misuse-javascript-array-map)
 - [Be Afraid and Do It Anyway](https://thisurathenuka.hashnode.dev/be-afraid-and-do-it-anyway)
 - [Demystifying CORS - Everything You Need to Know](https://thisurathenuka.hashnode.dev/demystifying-cors-everything-you-need-to-know)
 - [Demystifying DNS - Everything You Need to Know](https://thisurathenuka.hashnode.dev/demystifying-dns-everything-you-need-to-know)
 - [How I Became a Software Engineer](https://thisurathenuka.hashnode.dev/how-i-became-a-software-engineer)
-- [Add Redux to your React app in 6 Simple Steps](https://thisurathenuka.hashnode.dev/add-redux-to-your-react-app-in-6-simple-steps)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://simplecoder.hashnode.dev/)
