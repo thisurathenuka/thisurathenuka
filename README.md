@@ -26,11 +26,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript&#39;s copyWithin is strange 😬](https://thisurathenuka.hashnode.dev/javascripts-copywithin-is-strange)
 - [Don&#39;t misuse JavaScript Array map](https://thisurathenuka.hashnode.dev/dont-misuse-javascript-array-map)
 - [Be Afraid and Do It Anyway](https://thisurathenuka.hashnode.dev/be-afraid-and-do-it-anyway)
 - [Demystifying CORS - Everything You Need to Know](https://thisurathenuka.hashnode.dev/demystifying-cors-everything-you-need-to-know)
 - [Demystifying DNS - Everything You Need to Know](https://thisurathenuka.hashnode.dev/demystifying-dns-everything-you-need-to-know)
-- [How I Became a Software Engineer](https://thisurathenuka.hashnode.dev/how-i-became-a-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://simplecoder.hashnode.dev/)
