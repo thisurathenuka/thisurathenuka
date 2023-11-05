@@ -53,7 +53,7 @@
 
 ---
 
-- 📕 I'm currently reading You Don't Know JS Yet book
+- 📕 I'm currently reading [Cracking the Coding Interview](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) book
 - ⚡ Fun fact: I firmly believe in David Goggins' Theory ("If you decide to do something, attack it")
 
 ---
