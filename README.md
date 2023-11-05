@@ -39,8 +39,17 @@
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_thisura_)
 ---
 
-### Roadmap Progress
+### My Roadmap Progress
+
+#### Backend
+- [Backend Developer Roadmap](https://roadmap.sh/backend?s=64e39e9fced78d293537e339)
 - [Java Developer Roadmap](https://roadmap.sh/java?s=64e39e9fced78d293537e339)
+- [Spring Boot Roadmap](https://roadmap.sh/spring-boot?s=64e39e9fced78d293537e339)
+
+#### Frontend
+- [Frontend Developer Roadmap](https://roadmap.sh/frontend?s=64e39e9fced78d293537e339)
+- [NodeJS Roadmap](https://roadmap.sh/nodejs?s=64e39e9fced78d293537e339)
+- [React Roadmap](https://roadmap.sh/react?s=64e39e9fced78d293537e339)
 
 ---
 
