@@ -39,7 +39,11 @@
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_thisura_)
 ---
 
-- 🌱 I’m currently following the [JavaScript Roadmap](https://roadmap.sh/javascript)
+### Roadmap Progress
+- [Java Developer Roadmap](https://roadmap.sh/java?s=64e39e9fced78d293537e339)
+
+---
+
 - 📕 I'm currently reading You Don't Know JS Yet book
 - ⚡ Fun fact: I firmly believe in David Goggins' Theory ("If you decide to do something, attack it")
 
