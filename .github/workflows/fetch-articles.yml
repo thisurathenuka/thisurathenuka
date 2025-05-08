@@ -1,8 +1,7 @@
 name: Lastest Hashnode Blog Post
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 6 * * *'  # once a day at 6 AM UTC
   workflow_dispatch:
 
 jobs:
@@ -16,4 +15,3 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST"
           commit_message: "Updated readme with the latest Hashnode Blog data"
           feed_list: "https://thisurathenuka.hashnode.dev/rss.xml"
-          tag_filter: "dev-diaries"
