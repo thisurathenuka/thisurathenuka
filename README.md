@@ -1,8 +1,11 @@
 ### Hi there, I am Thisura Thenuka! 👋
 
-<!-- Add Bio -->
+Backend-leaning developer working with Java & Spring Boot, JavaScript/React, and Node.js. I write about what I learn on [Hashnode](https://simplecoder.hashnode.dev/).
 
-<!-- <a href="https://app.daily.dev/Thisura"><img src="https://api.daily.dev/devcards/fe72ccebf3064efaba24c9296886903f.png?r=t8e" width="400" alt="Thisura Thenuka's Dev Card"/></a> -->
+<p align="center">
+	<img src="/devcard.svg" width="400" alt="Thisura Thenuka's Dev Card"/>
+</p>
+
 ---
 
 🧰 Toolbox
@@ -15,11 +18,8 @@
 	<a><img alt="react" width="10%" style="padding:5px" src="/icons/icons8-react.gif"/></a>
 	<a><img alt="java" width="10%" style="padding:5px" src="/icons/icons8-java.gif"/></a>
 	<a><img alt="spring" width="10%" style="padding:5px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/></a>
-<!-- 	<a><img alt="git" width="10%" style="padding:5px" src="/icons/icons8-git-48.png"/></a> -->
-<!-- 	<a><img alt="python" width="10%" style="padding:5px" src="/icons/icons8-python.gif"/></a> -->
+	<a><img alt="git" width="10%" style="padding:5px" src="/icons/icons8-git-48.png"/></a>
 <!-- 	<a><img alt="streamlit" width="10%" style="padding:5px" src="https://streamlit.io/images/brand/streamlit-mark-color.png"/></a> -->
-<!-- 	<a><img alt="c" width="10%" style="padding:5px" src="/icons/icons8-c-programming-48.png"/></a> -->
-<!-- 	<a><img alt="c++" width="10%" style="padding:5px" src="/icons/icons8-c++-50.png"/></a> -->
 </p>
 
 ---
