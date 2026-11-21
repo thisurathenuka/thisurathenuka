@@ -22,7 +22,7 @@ concurrency. I'm building two public projects to practise these:
 
 ## Writing
 
-I write about what I learn: [Hashnode](https://hashnode.com/@YOUR-HANDLE)
+I write about what I learn: [Hashnode](https://blog.thisurathenuka.dev/)
 
 ## Get in touch
 
